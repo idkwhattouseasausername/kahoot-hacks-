@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         KaHack! Neon Pro
+// @name         UBG43 Kahoot Hacks 
 // @version      2.3.0
-// @namespace    https://github.com/jokeri2222
+// @namespace    
 // @description  Ultra-smooth Kahoot hack with optimized neon UI
-// @updateURL    https://github.com/jokeri2222/KaHack/raw/main/KaHack-Neon-Pro.meta.js
-// @downloadURL  https://github.com/jokeri2222/KaHack/raw/main/KaHack-Neon-Pro.user.js
-// @author       jokeri2222
+// @updateURL   
+// @downloadURL  
+// @author      
 // @match        https://kahoot.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kahoot.it
 // @grant        none
@@ -93,7 +93,7 @@
 
     // Title
     const title = document.createElement('div');
-    title.textContent = 'KaHack! NEON PRO';
+    title.textContent = 'use ubg43';
     Object.assign(title.style, {
         fontWeight: 'bold',
         fontSize: '18px',
